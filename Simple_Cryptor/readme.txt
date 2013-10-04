@@ -1,0 +1,1 @@
+Encrypts a string consisting of capital latin letters
