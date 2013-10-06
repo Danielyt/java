@@ -1,0 +1,2 @@
+JFrame application that bounces multiple balls inside the borders of a JPanel. Each new ball is of different color,
+which is chosen by the user. A new ball is created by clicking inside the JPanel. Every ball is executed by a separate Thread.
